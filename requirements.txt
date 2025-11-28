@@ -1,0 +1,30 @@
+# fastapi
+# uvicorn
+# pydantic
+# mysql-connector-python
+# google-generativeai
+# python-multipart
+# python-dotenv
+
+# FastAPI and Web Server
+fastapi
+uvicorn
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Database
+mysql-connector-python
+PyMySQL
+
+# AI/ML
+google-generativeai
+
+# Utilities
+python-multipart
+python-dotenv
+aiofiles
+
+# CORS
+fastapi-cors
