@@ -7,7 +7,7 @@ It provides general wellness information while strictly avoiding diagnosis, pres
 
 Multilingual support (auto-detects user language)
 
-AI-powered responses using Gemini 2.0 Flash Thinking
+AI-powered responses using Gemini 2.0 Flash
 
 Safe health-information persona (non-diagnostic)
 
