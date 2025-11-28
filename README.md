@@ -1,6 +1,6 @@
 # HealthAssist — Multilingual Health Information Chatbot
 
-HealthAssist is a multilingual, safety-focused health-information chatbot built using FastAPI, React, and Google Gemini Flash-Thinking.
+HealthAssist is a multilingual, safety-focused health-information chatbot built using FastAPI, React, and Google Gemini Flash.
 It provides general wellness information while strictly avoiding diagnosis, prescriptions, or emergency medical advice.
 
 ## Features
